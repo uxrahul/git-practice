@@ -1,3 +1,2 @@
 Hello, this is my first Git-tracked file.
 This is a second line.
-This is a third line.
